@@ -9,4 +9,3 @@ sudo dnf install libdvdcss -y
 sudo dnf install rpmfusion-nonfree-release-tainted -y
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo -y
 sudo dnf update -y
-reboot
