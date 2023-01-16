@@ -1,4 +1,4 @@
-# rpm-fusion-flathub-setup
+# rpm-fusion-flathub-setup (Fedora)
 
 This project helps you installing RPM-Fusion and Flathub quickly on Fedora.
 
