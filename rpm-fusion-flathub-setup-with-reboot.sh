@@ -7,6 +7,6 @@ sudo dnf groupupdate sound-and-video -y
 sudo dnf install rpmfusion-free-release-tainted -y
 sudo dnf install libdvdcss -y
 sudo dnf install rpmfusion-nonfree-release-tainted -y
-flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo -y
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 sudo dnf update -y
 reboot
