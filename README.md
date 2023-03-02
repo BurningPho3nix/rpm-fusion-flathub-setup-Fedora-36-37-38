@@ -13,13 +13,16 @@ add these lines below "skip_if_unavailable=True":
 #enables dnf to search for the fastest mirrior available
 #some people found it to be slower with this on sometimes
 #disable it when you feel like it slows dnf down
+
 fastestmirror=True
 
 #you can change this according to your internet speed
 #go below 10 if you have slow internet and over 10 if you have above gigabit
+
 max_parallel_downloads=10
 
 #makes the default answer for package installation yes instead of no
+
 defaultyes=True
 
 ______________________________________________________
