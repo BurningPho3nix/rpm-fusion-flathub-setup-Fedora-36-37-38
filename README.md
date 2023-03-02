@@ -11,7 +11,7 @@ sudo nano /etc/dnf/dnf.conf
 add these lines below "skip_if_unavailable=True":
 
 
-#enables dnf to search for the fastest mirrior available, some people found it to be slower with this on sometimes, disable it when you feel like it slows dnf down
+#enables dnf to search for the fastest mirrior available
 
 fastestmirror=True
 
