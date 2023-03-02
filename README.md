@@ -30,7 +30,7 @@ Script installs:
 - system updates (dnf update)
 
 There is a version which reboots your PC/laptop after installing the stuff mentioned above and one which doesn't reboot.
-This project has no relation the project named above.
+This project has no relation the projects named above.
 
 This needs to be enabled:
 ![Screenshot from 2023-01-17 00-41-11](https://user-images.githubusercontent.com/95959450/212780926-f5806457-5b99-4c5c-9b70-ef21296ea32e.png)
