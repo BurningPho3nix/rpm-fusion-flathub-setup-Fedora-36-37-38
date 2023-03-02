@@ -26,7 +26,7 @@ Script installs:
 - RPM Fusion free tainted (repo)
 - libdvdcss (support for copyrighted DVDs)
 - RPM Fusion nonfree tainted (repo)
-- Flathub (repo)
+- Flathub (repo)(removed in 38 due to it being enabled by default in Fedora 38)
 - system updates (dnf update)
 
 There is a version which reboots your PC/laptop after installing the stuff mentioned above and one which doesn't reboot.
